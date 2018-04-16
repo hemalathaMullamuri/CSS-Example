@@ -1,0 +1,39 @@
+ul {
+  list-style-type: none;
+  margin-left:100px;
+  margin-right:100px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+  font-size: 30px;
+}
+
+li {
+  float : left;
+  margin: 5px;
+  padding: 1px;
+  color: yellow;
+}
+
+.input {
+  float: right;
+  padding: 15px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+.det{
+  height:500px;
+  width:500px;
+  margin-left:100px;
+}
+.ali {
+  display:flex;
+}
+.pa {
+  height:50px;
+  width:500px;
+  margin-left:100px;
+
+}
