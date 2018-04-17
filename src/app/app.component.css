@@ -37,3 +37,16 @@ li {
   margin-left:100px;
 
 }
+
+.sec {
+  background-image: url("https://images.pexels.com/photos/370799/pexels-photo-370799.jpeg?cs=srgb&dl=abstract-art-background-370799.jpg&fm=jpg");
+  background-position: center;
+  height:200px;
+  color:greenyellow;
+  margin-left:100px;
+  margin-right:100px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 30px;
+  display:flex;
+}
